@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hn_italic">HelveticaNeue-Italic.otf</string>
+    <string name="hn_black">HelveticaNeue-Black.otf</string>
+    <string name="hn_bold">HelveticaNeue-Bold.otf</string>
+    <string name="hn_light">HelveticaNeue-Light.otf</string>
+    <string name="hn_medium">HelveticaNeue-Medium.otf</string>
+    <string name="roboto_medium">Roboto-Medium.ttf</string>
+    <string name="roboto_regular">Roboto-Regular.ttf</string>
+
+</resources>
